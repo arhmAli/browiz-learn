@@ -23,4 +23,7 @@
 <ul>
 <li>for and while loops ✅ </li>
 </ul>
+<ul>
+<li>struct in cpp and cases for it ✅ </li>
+</ul>
 <hr>
