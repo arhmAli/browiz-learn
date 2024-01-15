@@ -27,3 +27,17 @@
 <li>struct in cpp and cases for it ✅ </li>
 </ul>
 <hr>
+<h3 align="center">Day 03</h3>
+<ul>
+<li>Pointers studied ✅ </li>
+</ul>
+<ul>
+<li>Vectors and leetcode,codewar problems solved related to it ✅ </li>
+</ul>
+<ul>
+<li>Studied refrencing in c++ ✅ </li>
+</ul>
+<ul>
+<li>Studied and practiced pointers to structures how can we use pointers in structures✅ </li>
+</ul>
+<hr>
