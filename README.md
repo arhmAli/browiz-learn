@@ -41,3 +41,14 @@
 <li>Studied and practiced pointers to structures how can we use pointers in structures✅ </li>
 </ul>
 <hr>
+<h3 align="center">Day 04</h3>
+<ul>
+<li>Functions in c++ ✅ </li>
+</ul>
+<ul>
+<li>How can parameters be passed✅ </li>
+</ul>
+<ul>
+<li>Passing arrays as parameter in a function ✅ </li>
+</ul>
+<hr>
