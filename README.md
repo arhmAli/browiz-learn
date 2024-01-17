@@ -52,3 +52,17 @@
 <li>Passing arrays as parameter in a function ✅ </li>
 </ul>
 <hr>
+<h3 align="center">Day 05</h3>
+<ul>
+<li>Structures as parameters ✅ </li>
+</ul>
+<ul>
+<li>Why array cannot be sent by val✅ </li>
+</ul>
+<ul>
+<li>Highest level of programming in C and style of code in C ✅ </li>
+</ul>
+<ul>
+<li>Learnt how to add delay in my program in c++ just like setTimeout() and setInterval() in js ✅ </li>
+</ul>
+<hr>
