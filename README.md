@@ -66,3 +66,14 @@
 <li>Learnt how to add delay in my program in c++ just like setTimeout() and setInterval() in js ✅ </li>
 </ul>
 <hr>
+<h3 align="center">Day 06</h3>
+<ul>
+<li>How structures and classes are related ✅ </li>
+</ul>
+<ul>
+<li>Object oriented programming started✅ </li>
+</ul>
+<ul>
+<li>Class for a rectangle and bank created and constructor,functions,getter,setter and destructor concept learnt ✅ </li>
+</ul>
+<hr>
