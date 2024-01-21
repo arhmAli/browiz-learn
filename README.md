@@ -77,3 +77,16 @@
 <li>Class for a rectangle and bank created and constructor,functions,getter,setter and destructor concept learnt ✅ </li>
 </ul>
 <hr>
+<h3 align="center">Day 07</h3>
+<ul>
+<li>Studied the difference between vector and simple array ✅ </li>
+</ul>
+<hr>
+<h3 align="center">Day 08</h3>
+<ul>
+<li>Studied about stack how to declare it and methods ✅ </li>
+</ul>
+<ul>
+<li>Tried to Understand the necessity of stack ✅ </li>
+</ul>
+<hr>
