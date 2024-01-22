@@ -90,3 +90,17 @@
 <li>Tried to Understand the necessity of stack ✅ </li>
 </ul>
 <hr>
+<h3 align="center">Day 09</h3>
+<ul>
+<li>Studied about Queue how to declare it and methods ✅ </li>
+</ul>
+<ul>
+<li> Revised class and solved some problems involving class+vectors ✅ </li>
+</ul>
+<ul>
+<li> Studied the difference between _getch(),getch(),getline() vs cin for different scenarios ✅ </li>
+</ul>
+<ul>
+<li> Studied different methods and operations on vectors e.g begin,iterators, and STL methods like rbegin rend etc ✅ </li>
+</ul>
+<hr>
