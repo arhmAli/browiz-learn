@@ -104,3 +104,44 @@
 <li> Studied different methods and operations on vectors e.g begin,iterators, and STL methods like rbegin rend etc ✅ </li>
 </ul>
 <hr>
+<h3 align="center">Day 10</h3>
+<ul>
+<li>Studied about the types of OOP concepts  ✅ </li>
+</ul>
+<ul>
+<li> C vs C++ difference basically structure vs class theory✅ </li>
+</ul>
+<ul>
+<li>  Practiced simple Inheritance ✅ </li>
+</ul>
+<ul>
+<li> Practiced about stack and learnt about the "this" in C++✅ </li>
+</ul>
+<hr>
+<h3 align="center">Day 11</h3>
+<ul>
+<li>Made a simple todolist using concepts learnt untill now  ✅ </li>
+</ul>
+<hr>
+<h3 align="center">Day 12</h3>
+<ul>
+<li>Studied and practiced basics of file  handling  ✅ </li>
+</ul>
+<hr>
+<h3 align="center">Day 13</h3>
+<ul>
+<li>Studied about the basic algorithms ✅ </li>
+</ul>
+<ul>
+<li> implemented sort,merge,find,search etc algorithm✅ </li>
+</ul>
+<ul>
+<li>  Studient about list and its methods  ✅ </li>
+</ul>
+<hr>
+
+<h3 align="center">Day 14</h3>
+<ul>
+<li>Studied the theory behind linkedlist and tried to understand it ✅ </li>
+</ul>
+<hr>
