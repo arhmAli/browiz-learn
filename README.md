@@ -139,9 +139,23 @@
 <li>  Studient about list and its methods  ✅ </li>
 </ul>
 <hr>
-
 <h3 align="center">Day 14</h3>
 <ul>
 <li>Studied the theory behind linkedlist and tried to understand it ✅ </li>
+</ul>
+<hr>
+
+<h3 align="center">Day 15</h3>
+<ul>
+<li>Studied navigate in js (theory) ✅ </li>
+</ul>
+<ul>
+<li>Studied a little bit about the async await in js why that instead of fetch and then ✅ </li>
+</ul>
+<ul>
+<li>learnt that there is a library in npm for qrcode pretty simple to understand ✅ </li>
+</ul>
+<ul>
+<li>Understand the basic concept of a  linked list and types of LL. ✅ </li>
 </ul>
 <hr>
