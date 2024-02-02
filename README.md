@@ -158,4 +158,7 @@
 <ul>
 <li>Understand the basic concept of a  linked list and types of LL. ✅ </li>
 </ul>
+<ul>
+<li>Understand the iterator and solved basic problem  ✅ </li>
+</ul>
 <hr>
