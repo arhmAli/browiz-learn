@@ -1,9 +1,0 @@
-Enthusiastic and driven, I find my true calling in the world of coding. With an unquenchable thirst for knowledge and a love for the intricacies of programming, I have embarked on a journey that spans a multitude of languages and disciplines.
-
-My coding odyssey has taken me through a diverse landscape, from crafting web applications using technologies like MERN ,Next.js, React, and Node.js, mySQL to delving into the realms of machine learning with models like linear regression, logistic regression, and neural networks. The thrill of tackling complex problems with elegant code solutions is what fuels my passion.
-
-Beyond traditional boundaries, I've explored languages like C#, Python, JavaScript, Dart, MATLAB, and even delved into the low-level world of Assembly and C/C++. During my academic pursuits, I delved into numerical analysis methods, probability, statistics, and more, strengthening my foundation in mathematics and problem-solving.
-
-My fascination with technology extends to image processing, where I've engineered solutions like obstacle detection systems. As a robotics engineer, I've navigated the intricacies of automation, from manipulators to PLCs, and have undertaken projects such as intelligent beverage machines and solar panel systems.
-
-My journey isn't just marked by certifications and licenses; it's an ongoing adventure, fueled by my insatiable curiosity and the joy I find in coding. If you're seeking a passionate coder and a dedicated explorer of technology's frontiers, I'd love to connect and share in the excitement of our digital world.
