@@ -162,3 +162,61 @@
 <li>Understand the iterator and solved basic problem  ✅ </li>
 </ul>
 <hr>
+<h3 align="center">Day 16</h3>
+<ul>
+<li>Understand what are container adapters and make simple program ✅ </li>
+</ul>
+<ul>
+<li>Study about template functions ✅ </li>
+</ul>
+<hr>
+<h3 align="center">Day 17</h3>
+<ul>
+<li>Simple program to show queue and stack just for practice✅ </li>
+</ul>
+<hr>
+<h3 align="center">Day 18</h3>
+<ul>
+<li>Study about classes and find out what the array does in cpp ✅ </li>
+</ul>
+<ul>
+<li>Make simple program for constructor in cpp and array practice ✅ </li>
+</ul>
+<hr>
+<h3 align="center">Day 19</h3>
+<li>Study and practice about template functions ✅ </li>
+</ul>
+<hr>
+<h3 align="center">Day 20</h3>
+<ul>
+<li>Get familiar with OOP and make program to do practice for vector ✅ </li>
+</ul>
+<ul>
+<li>Did an exercise of controlling a car speed's counter using OOP with constructor initialization ✅ </li>
+</ul>
+<hr>
+<h3 align="center">Day 21</h3>
+<ul>
+<li>Study some basic algorithms again like count,search  ✅ </li>
+</ul>
+<hr>
+<h3 align="center">Day 22</h3>
+<ul>
+<li>Study some basic algorithms again distance,find ✅ </li>
+</ul>
+<hr>
+<h3 align="center">Day 23</h3>
+<ul>
+<li>Tried to solve a problem of line following robot and gave up halfway ✅ </li>
+</ul>
+<hr>
+<h3 align="center">Day 24</h3>
+<ul>
+<li>Study about constructor overloading ✅ </li>
+</ul>
+<ul>
+<li>Solve some problems related to constructor overloading like showing a complex number and distance calculator  ✅ </li>
+</ul>
+<hr>
+
+
