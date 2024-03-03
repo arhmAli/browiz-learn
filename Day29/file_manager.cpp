@@ -1,3 +1,4 @@
+//File manager system by Arham khan 
 #include<iostream>
 #include<fstream>
 #include<string>
@@ -72,12 +73,33 @@ public:
             cout << "Failed to change directory" << endl;
         }
     }
+    void moveFile(){
+        cout<<"Enter file name which you want to move"<<endl;
+        string name;
+        getline(cin,name);
+        cout<<"Enter Destination of the file"<<endl;
+        string dest;
+        getline(cin,dest);
+        string cmd="move "+name+" "+dest;
+        system(cmd.c_str());
+    }
+    void echoFile(){
+        cout<<"Enter file name which you want to copy"<<endl;
+        string name;
+        getline(cin,name);
+        cout<<"Enter Destination of the file"<<endl;
+        string dest;
+        getline(cin,dest);
+        string cmd="copy "+name+" "+dest;
+        system(cmd.c_str());
+    }
 };
 
 int main() {
     file_manager a;
+    // a.echoFile();
     int choice;
-    cout << "-----------Welcome to File Manager system ---------" << endl;
+    cout << "-----------Welcome to File Manager system by Arham Khan ---------" << endl;
     while (true) {
         cout << "Choose an option:" << endl;
         cout << "1. Read a file" << endl;
@@ -85,7 +107,9 @@ int main() {
         cout << "3. Rename a file" << endl;
         cout << "4. Make a folder" << endl;
         cout << "5. Change directory" << endl;
-        cout << "6. Exit" << endl;
+        cout << "6. Move directory or a File" << endl;
+        cout << "7. Copy directory or a file" << endl;
+        cout << "8. Exit" << endl;
         cin >> choice;
         cin.ignore();
 
@@ -106,6 +130,12 @@ int main() {
                 a.changeDir();
                 break;
             case 6:
+                a.moveFile();
+                break;           
+            case 7:
+                a.echoFile();
+                break;
+            case 8:
                 cout << "Exiting program" << endl;
                 return 0;
             default:
